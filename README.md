@@ -1,10 +1,20 @@
-*Bienvenidos a mi perfil*
-- 👋 Hi, I’m @musicallyivan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... 
-- 📫 How to reach me ...
+# ¡Hola! Soy @musicallyivan 👋
 
-<!---
-musicallyivan/musicallyivan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Bienvenido/a a mi espacio en GitHub. Aquí comparto mi camino de aprendizaje, mis proyectos y las ideas que voy convirtiendo en código.
+
+## Sobre mí
+
+- 🎵 Me identifico con la creatividad y la música.
+- 💡 Me interesa seguir explorando la tecnología y crear proyectos con propósito.
+- 🌱 Estoy en constante aprendizaje, mejorando paso a paso.
+- 🤝 Me encanta descubrir, experimentar y colaborar en nuevas ideas.
+
+## En este perfil encontrarás
+
+Proyectos, pruebas y avances que reflejan lo que voy aprendiendo. Cada repositorio es una oportunidad para seguir creciendo.
+
+> *Aprender, crear y compartir: ese es el camino.*
+
+<!--
+Este repositorio es especial porque README.md se muestra en el perfil de GitHub de @musicallyivan.
+-->
